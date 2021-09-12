@@ -1,0 +1,13 @@
+{
+	"name": "solidifier",
+	"version": "2.2.2",
+	"description": "Solidity flattener.",
+	"main": "index.js",
+	"repository": "https://github.com/swapgate/solidifier.git",
+	"author": "",
+	"license": "MIT",
+	"private": false,
+	"dependencies": {
+		"@solidity-parser/parser": "^0.12.1"
+	}
+}
